@@ -1,0 +1,200 @@
+ title, type, socket, performance, cores, year, price, power
+Ryzen Threadripper PRO 7995WX,десктопный,sTR5,100.00,96 / 192,2023,11150 USD,350 W
+Ryzen Threadripper PRO 7985WX,серверный,AMD Socket sTR5,88.40,64 / 128,−,8089 USD,350 W
+Ryzen Threadripper 7980X,десктопный,AMD Socket sTR5,88.14,64 / 128,−,4999 USD,350 W
+EPYC 9654,серверный,AMD Socket SP5,78.98,96 / 192,2022,4544 USD,360 W
+EPYC 9654P,серверный,AMD Socket SP5,73.67,96 / 192,2022,5987 USD,360 W
+EPYC 9554,серверный,AMD Socket SP5,72.17,64 / 128,2022,2590 USD,360 W
+EPYC 9554P,серверный,AMD Socket SP5,71.02,64 / 128,2022,−,360 W
+EPYC 9634,серверный,AMD Socket SP5,69.79,84 / 168,2022,5678 USD,290 W
+EPYC 9474F,серверный,AMD Socket SP5,67.88,48 / 96,2022,4390 USD,360 W
+Ryzen Threadripper 7970X,десктопный,AMD Socket sTR5,63.16,32 / 64,−,2499 USD,350 W
+EPYC 9454P,серверный,AMD Socket SP5,62.12,48 / 96,2022,−,290 W
+Ryzen Threadripper PRO 7975WX,серверный,AMD Socket sTR5,61.00,32 / 64,−,3899 USD,350 W
+EPYC 9754,серверный,AMD Socket SP5,60.63,128 / 256,2023,6294 USD,360 W
+Ryzen Threadripper PRO 5995WX,серверный,AMD Socket WRX8,60.25,64 / 128,2022,5495 USD,280 W
+Xeon Platinum 8368,серверный,Intel Socket 4189,59.51,38 / 76,2021,12855 USD,270 W
+EPYC 7773X,серверный,AMD Socket SP3,59.15,64 / 128,2022,6590 USD,280 W
+Xeon w9-3495X,серверный,Intel Socket 4677,58.53,56 / 112,2023,−,350 W
+Xeon Platinum 8470,серверный,Intel Socket 4677,58.09,52 / 104,2023,−,350 W
+EPYC 9534,серверный,AMD Socket SP5,57.36,64 / 128,2022,4755 USD,280 W
+Xeon Max 9480,серверный,Intel Socket 4677,56.52,56 / 112,2023,−,350 W
+EPYC 7763,серверный,AMD Socket SP3,54.64,64 / 128,2021,13298 USD,280 W
+Ryzen Threadripper PRO 3995WX,десктопный,sWRX8,54.12,64 / 128,2020,6509 USD,280 W
+Ryzen Threadripper 7960X,десктопный,AMD Socket sTR5,53.75,24 / 48,−,1469 USD,350 W
+Ryzen Threadripper PRO 7965WX,серверный,AMD Socket sTR5,53.74,24 / 48,−,2649 USD,350 W
+EPYC 7713,серверный,AMD Socket SP3,53.44,64 / 128,2021,10189 USD,225 W
+EPYC 7663,серверный,AMD Socket SP3,52.98,56 / 112,2021,15069 USD,240 W
+EPYC 7713P,серверный,AMD Socket SP3,51.96,64 / 128,2021,7679 USD,225 W
+EPYC 9374F,серверный,AMD Socket SP5,51.67,32 / 64,2022,3995 USD,320 W
+Ryzen Threadripper 3990X,десктопный,AMD Socket TR4,51.65,64 / 128,2020,4255 USD,280 W
+EPYC 9354P,серверный,AMD Socket SP5,50.57,32 / 64,2022,−,280 W
+EPYC 7643,серверный,AMD Socket SP3,49.43,48 / 96,2021,8164 USD,225 W
+Ryzen Threadripper PRO 5975WX,серверный,AMD Socket WRX8,49.14,32 / 64,2022,2799 USD,280 W
+Xeon Platinum 8461V,серверный,Intel Socket 4677,48.48,48 / 96,2023,−,300 W
+EPYC 9274F,серверный,AMD Socket SP5,47.49,24 / 48,2022,2995 USD,320 W
+EPYC 7662,серверный,Socket SP3,46.97,64 / 128,2020,−,225 W
+EPYC 7702,серверный,AMD Socket TR4,45.17,64 / 128,2019,8948 USD,200 W
+EPYC 7H12,серверный,AMD Socket TR4,45.02,64 / 128,2019,1970 USD,280 W
+EPYC 7573X,серверный,AMD Socket SP3,44.89,32 / 64,2022,4598 USD,280 W
+EPYC 7742,серверный,AMD Socket TR4,44.73,64 / 128,2019,1656 USD,225 W
+EPYC 9254,серверный,AMD Socket SP5,44.60,24 / 48,2022,2478 USD,200 W
+Xeon Platinum 8352Y,серверный,FCLGA4189,44.38,/,2021,4822 USD,−
+EPYC 75F3,серверный,AMD Socket SP3,44.29,32 / 64,2021,8906 USD,280 W
+Xeon Platinum 8571N,серверный,Intel Socket 4677,44.21,52 / 104,2023,−,300 W
+EPYC 9354,серверный,AMD Socket SP5,43.86,32 / 64,2022,3879 USD,280 W
+Ryzen Threadripper PRO 5965WX,серверный,AMD Socket WRX8,43.18,24 / 48,2022,2686 USD,280 W
+EPYC 7543P,серверный,AMD Socket SP3,43.11,32 / 64,2021,3823 USD,225 W
+Xeon w7-3465X,серверный,Intel Socket 4677,42.62,28 / 56,−,3079 USD,300 W
+Xeon Gold 6530,серверный,Intel Socket 4677,42.37,32 / 64,2023,−,270 W
+Xeon w9-3475X,серверный,Intel Socket 4677,42.21,36 / 72,2023,3918 USD,300 W
+EPYC 9334,серверный,AMD Socket SP5,41.92,32 / 64,2022,2450 USD,210 W
+EPYC 7702P,серверный,AMD Socket TR4,41.55,64 / 128,2019,1524 USD,200 W
+Xeon Gold 6258R,серверный,Socket P,41.37,28 / 56,2020,2842 USD,205 W
+Core i9-14900KS,десктопный,Intel Socket 1700,41.18,24 / 32,2024,664 USD,150 W
+Ryzen Threadripper 3970X,десктопный,AMD Socket TR4,40.90,32 / 64,2019,1675 USD,280 W
+Ryzen Threadripper PRO 3975WX,десктопный,sWRX8,40.72,32 / 64,2020,2400 USD,280 W
+EPYC 9224,серверный,AMD Socket SP5,40.67,24 / 48,2022,3175 USD,200 W
+Ryzen 9 7950X,десктопный,AMD Socket AM5,40.66,16 / 32,2022,821 USD,170 W
+EPYC 4584PX,серверный,AMD Socket AM5,40.65,16 / 32,2024,−,120 W
+EPYC 7543,серверный,AMD Socket SP3,40.45,32 / 64,2021,6282 USD,225 W
+Xeon Platinum 8454H,серверный,Intel Socket 4677,40.43,32 / 64,2023,−,270 W
+Ryzen 9 7950X3D,десктопный,AMD Socket AM5,40.40,16 / 32,2023,938 USD,120 W
+Xeon Platinum 8380,серверный,Intel Socket 4189,40.29,40 / 80,2021,11816 USD,270 W
+EPYC 4564P,серверный,AMD Socket AM5,40.12,16 / 32,2024,−,170 W
+Core i9-13900KS,десктопный,Intel Socket 1700,40.01,24 / 32,2023,526 USD,150 W
+Core i9-14900K,десктопный,Intel Socket 1700,39.36,24 / 328 x 6.0 GHz Intel Raptor Cove P-Core16 x 4.4 GHz Intel Gracemont E-Core,2023,644 USD,125 W
+EPYC 74F3,серверный,AMD Socket SP3,39.22,24 / 48,2021,5571 USD,240 W
+Xeon Gold 6448Y,серверный,Intel Socket 4677,39.08,32 / 64,2023,−,225 W
+Core i9-14900KF,десктопный,FCLGA1700,38.86,/,2023,531 USD,−
+EPYC 7642,серверный,AMD Socket TR4,38.81,48 / 96,2019,893 USD,225 W
+Xeon Gold 5512U,серверный,Intel Socket 4677,38.71,28 / 56,2023,−,185 W
+Core i9-13900K,десктопный,Intel Socket 1700,38.34,24 / 328 x 5.8 GHz Intel Raptor Cove P-Core16 x 4.3 GHz Intel Gracemont E-Core,2022,600 USD,125 W
+EPYC 7513,серверный,AMD Socket SP3,38.33,32 / 64,2021,4189 USD,200 W
+EPYC 7473X,серверный,AMD Socket SP3,38.32,24 / 48,2022,5548 USD,240 W
+Xeon W-3375,серверный,Intel Socket 4189,38.19,38 / 76,2021,−,270 W
+Xeon W-3365,серверный,Intel Socket 4189,38.17,32 / 64,2021,−,270 W
+Xeon w7-2495X,серверный,Intel Socket 4677,38.16,24 / 48,2023,3196 USD,225 W
+Xeon Gold 6421N,серверный,Intel Socket 4677,38.01,32 / 64,2023,−,185 W
+Core i9-13900KF,десктопный,Intel Socket 1700,37.92,24 / 32,2022,539 USD,125 W
+Ryzen 9 7945HX3D,для ноутбуков,FL1,37.44,16 / 32,2023,−,55 W
+Xeon Gold 5420+,серверный,Intel Socket 4677,37.23,28 / 56,2023,−,205 W
+Xeon Gold 6423N,серверный,FCLGA4677,37.13,/,2023,−,−
+EPYC 7443P,серверный,AMD Socket SP3,36.99,24 / 48,2021,2206 USD,200 W
+Xeon Gold 6414U,серверный,Intel Socket 4677,36.98,32 / 64,2023,−,250 W
+Xeon w7-3455,серверный,Intel Socket 4677,36.96,24 / 48,2023,−,270 W
+EPYC 7443,серверный,AMD Socket SP3,36.14,24 / 48,2021,3528 USD,200 W
+EPYC 9174F,серверный,AMD Socket SP5,35.87,16 / 32,2022,4180 USD,320 W
+EPYC 7401,серверный,AMD Socket TR4,35.74,24 / 48,2017,1477 USD,170 W
+Ryzen 9 7945HX,для ноутбуков,AMD Socket FL1,35.48,16 / 32,2023,−,55 W
+Ryzen Threadripper 3960X,десктопный,AMD Socket TR4,35.48,24 / 48,2019,1725 USD,280 W
+Xeon w7-2475X,серверный,Intel Socket 4677,35.21,20 / 40,2023,1878 USD,225 W
+Xeon Platinum 8358,серверный,Intel Socket 4189,35.18,32 / 64,2021,6415 USD,250 W
+Xeon Platinum 8360Y,серверный,Intel Socket 4189,34.96,36 / 72,2021,6527 USD,250 W
+Core i7-14700K,десктопный,Intel Socket 1700,34.67,20 / 288 x 5.6 GHz Intel Raptor Cove P-Core12 x 3.4 GHz Intel Gracemont E-Core,2023,594 USD,125 W
+Ryzen 9 7940HX,для ноутбуков,FL1,34.58,16 / 3216 x 5.2 GHz AMD Zen 4,2024,−,55 W
+Core i7-14700KF,десктопный,FCLGA1700,34.55,/,2023,379 USD,−
+Xeon Platinum 8160M,серверный,Socket P,34.37,24 / 48,2017,397 USD,150 W
+EPYC 7532,серверный,Socket SP3,34.30,32 / 64,2020,2019 USD,200 W
+Xeon Gold 6438N,серверный,Intel Socket 4677,34.13,32 / 64,2023,−,205 W
+Xeon Gold 5412U,серверный,Intel Socket 4677,34.10,24 / 48,2023,−,185 W
+Xeon Gold 6348,серверный,Intel Socket 4189,33.80,28 / 56,2021,2292 USD,235 W
+EPYC 7F72,серверный,AMD Socket SP3,33.69,24 / 48,2020,3364 USD,240 W
+Ryzen 9 7900X,десктопный,AMD Socket AM5,33.54,12 / 24,2022,540 USD,170 W
+Core i9-13900F,десктопный,Intel Socket 1700,33.35,24 / 32,2023,435 USD,65 W
+Xeon Platinum 8180M,серверный,Intel Socket 3647,33.26,28 / 56,2017,1500 USD,205 W
+EPYC 4484PX,серверный,AMD Socket AM5,33.05,12 / 24,2024,−,120 W
+EPYC 7552,серверный,AMD Socket TR4,33.04,48 / 96,2019,1739 USD,200 W
+Core i9-14900F,десктопный,Intel Socket 1700,32.99,24 / 32,−,530 USD,65 W
+EPYC 4464P,серверный,AMD Socket AM5,32.85,12 / 24,2024,−,105 W
+EPYC 7453,серверный,AMD Socket SP3,32.70,28 / 56,2021,3467 USD,225 W
+Ryzen 9 7900X3D,десктопный,AMD Socket AM5,32.59,12 / 24,2023,470 USD,120 W
+EPYC 7502P,серверный,AMD Socket TR4,32.57,32 / 64,2019,1699 USD,180 W
+EPYC 7413,серверный,AMD Socket SP3,32.47,24 / 48,2021,2853 USD,180 W
+Ryzen Threadripper PRO 5955WX,серверный,AMD Socket WRX8,32.36,16 / 32,2022,1197 USD,280 W
+Core i9-14900,десктопный,FCLGA1700,31.67,/,2024,602 USD,−
+Ryzen 9 7900,десктопный,AMD Socket AM5,31.58,12 / 24,2023,528 USD,65 W
+Xeon E7-4880 v2,серверный,FCLGA2011,31.31,/,2014,770 USD,−
+Xeon Gold 6314U,серверный,Intel Socket 4189,31.04,32 / 64,2021,−,205 W
+EPYC 7452,серверный,AMD Socket TR4,31.00,32 / 64,2019,1827 USD,155 W
+Ryzen 9 PRO 7945,серверный,AMD Socket AM5,30.99,12 / 24,2023,−,65 W
+Core i9-13900,десктопный,Intel Socket 1700,30.83,24 / 32,2023,501 USD,125 W
+EPYC 7542,серверный,SP3,30.79,32 / 64,2019,2197 USD,225 W
+Core i9-13980HX,для ноутбуков,Intel BGA 1964,30.63,24 / 328 x 5.6 GHz Intel Raptor Cove P-Core16 x 4.0 GHz Intel Gracemont E-Core,2023,−,55 W
+Xeon Gold 6342,серверный,Intel Socket 4189,30.59,24 / 48,2021,4256 USD,230 W
+Core i9-14900HX,для ноутбуков,BGA1964,30.45,24 / 328 x 5.8 GHz Intel Raptor Cove P-Core16 x 4.1 GHz Intel Gracemont E-Core,2024,−,55 W
+EPYC 7502,серверный,AMD Socket TR4,30.40,32 / 64,2019,3299 USD,180 W
+Xeon w5-2465X,серверный,Intel Socket 4677,30.34,16 / 32,2023,1472 USD,200 W
+Xeon Gold 6256,серверный,FCLGA3647,30.24,/,2020,3724 USD,−
+Xeon Platinum 8368Q,серверный,Intel Socket 4189,30.18,38 / 76,2021,−,270 W
+Xeon w5-3435X,серверный,Intel Socket 4677,30.12,16 / 32,2023,1654 USD,270 W
+Core i7-13700K,десктопный,Intel Socket 1700,30.09,16 / 248 x 5.4 GHz Intel Raptor Cove P-Core8 x 3.4 GHz Intel Gracemont E-Core,2022,474 USD,125 W
+Core i7-13700KF,десктопный,Intel Socket 1700,29.97,16 / 24,2022,421 USD,125 W
+Core i7-13790F,десктопный,Intel Socket 1700,29.81,16 / 24,−,−,65 W
+EPYC 73F3,серверный,AMD Socket SP3,29.81,16 / 32,2021,6522 USD,240 W
+EPYC 7402,серверный,AMD Socket TR4,29.76,24 / 48,2019,890 USD,180 W
+Xeon Gold 6526Y,серверный,Intel Socket 4677,29.76,16 / 32,2023,−,195 W
+Ryzen 9 7845HX,для ноутбуков,AMD Socket FL1,29.67,12 / 24,2023,−,55 W
+Core i7-14700,десктопный,Intel Socket 1700,29.57,20 / 28,−,480 USD,65 W
+Xeon W-3345,серверный,Intel Socket 4189,29.54,24 / 48,2021,−,250 W
+Ryzen 9 5950X,десктопный,AMD Socket AM4,29.52,16 / 32,2020,704 USD,105 W
+Xeon Gold 6336Y,серверный,Intel Socket 4189,29.43,24 / 48,2021,3149 USD,185 W
+Xeon w7-3445,серверный,Intel Socket 4677,29.21,20 / 40,2023,−,270 W
+Xeon Silver 4416+,серверный,Intel Socket 4677,29.17,20 / 40,2023,−,165 W
+Xeon Gold 6538N,серверный,Intel Socket 4677,29.02,32 / 64,2023,−,205 W
+Core i7-14700F,десктопный,Intel Socket 1700,28.96,20 / 28,−,370 USD,65 W
+Core i9-13900HX,для ноутбуков,Intel BGA 1964,28.87,24 / 328 x 5.4 GHz Intel Raptor Cove P-Core16 x 3.9 GHz Intel Gracemont E-Core,2023,−,55 W
+Xeon Gold 5418Y,серверный,Intel Socket 4677,28.76,24 / 48,2023,3680 USD,185 W
+Xeon Platinum 8352M,серверный,Intel Socket 4189,28.71,32 / 64,2021,9928 USD,185 W
+Core i9-13950HX,для ноутбуков,Intel BGA 1964,28.68,24 / 328 x 5.5 GHz Intel Raptor Cove P-Core16 x 4.0 GHz Intel Gracemont E-Core,2023,−,55 W
+Core i9-14900T,десктопный,Intel Socket 1700,28.61,24 / 32,−,−,35 W
+EPYC 7343,серверный,AMD Socket SP3,28.57,16 / 32,2021,2790 USD,190 W
+Core i9-13900T,десктопный,Intel Socket 1700,28.51,24 / 32,2023,−,35 W
+Core i9-12900KS,десктопный,Intel Socket 1700,28.47,16 / 24,2022,399 USD,150 W
+EPYC 7402P,серверный,AMD Socket TR4,28.42,24 / 48,2019,4315 USD,180 W
+EPYC 9124,серверный,AMD Socket SP5,28.28,16 / 32,2022,1452 USD,200 W
+Xeon Gold 6330,серверный,Intel Socket 4189,27.84,28 / 56,2021,2251 USD,205 W
+Xeon Gold 6312U,серверный,Intel Socket 4189,27.23,24 / 48,2021,−,185 W
+Xeon Gold 6338N,серверный,Intel Socket 4189,27.21,32 / 64,2021,6143 USD,185 W
+EPYC 7313P,серверный,AMD Socket SP3,27.17,16 / 32,2021,1591 USD,155 W
+Xeon Gold 6426Y,серверный,Intel Socket 4677,26.91,16 / 32,2023,−,185 W
+Xeon W-3275,серверный,Socket P,26.86,28 / 56,2019,5391 USD,205 W
+Xeon Gold 6354,серверный,Intel Socket 4189,26.79,18 / 36,2021,2099 USD,205 W
+Core i9-12900K,десктопный,Intel Socket 1700,26.76,16 / 24,2021,432 USD,125 W
+Core i9-12900KF,десктопный,Intel Socket 1700,26.59,16 / 24,2021,475 USD,125 W
+Xeon Gold 6416H,серверный,Intel Socket 4677,26.25,18 / 36,2023,−,165 W
+Ryzen Threadripper PRO 5945WX,серверный,AMD Socket WRX8,26.21,12 / 24,2022,−,280 W
+Ryzen Threadripper PRO 3955WX,серверный,AMD Socket TR4,26.09,16 / 32,2020,1347 USD,280 W
+EPYC 7352,серверный,AMD Socket TR4,25.92,24 / 48,2019,819 USD,155 W
+EPYC 7F52,серверный,AMD Socket SP3,25.81,16 / 32,2020,4006 USD,155 W
+Core i5-14600KF,десктопный,Intel Socket 1700,25.54,14 / 20,−,519 USD,125 W
+Xeon W-3335,серверный,Intel Socket 4189,25.40,16 / 32,2021,1608 USD,250 W
+Core i5-14600K,десктопный,LGA 1700,25.40,14 / 206 x 5.3 GHz Intel Raptor Cove P-Core8 x 3.5 GHz Intel Gracemont E-Core,2023,517 USD,125 W
+Xeon W-3275M,серверный,Socket P,25.34,28 / 56,2019,9030 USD,205 W
+Ryzen 9 5900X,десктопный,AMD Socket AM4,25.33,12 / 24,2020,351 USD,105 W
+EPYC 7313,серверный,AMD Socket SP3,25.27,16 / 32,2021,1412 USD,155 W
+Core i7-13700F,десктопный,Intel Socket 1700,25.24,16 / 24,2023,877 USD,65 W
+Ryzen 9 3950X,десктопный,AMD Socket AM4,25.08,16 / 32,2019,1272 USD,105 W
+Core i7-14650HX,для ноутбуков,BGA1964,24.82,16 / 248 x 5.2 GHz Intel Raptor Cove P-Core8 x 3.7 GHz Intel Gracemont E-Core,2024,−,55 W
+Xeon Platinum 8180,серверный,Intel Socket 3647,24.73,28 / 56,2017,1849 USD,205 W
+EPYC 7551P,серверный,AMD Socket TR4,24.64,32 / 64,2017,531 USD,180 W
+Core i5-13600K,десктопный,Intel Socket 1700,24.62,14 / 206 x 5.1 GHz Intel Raptor Cove P-Core8 x 3.9 GHz Intel Gracemont E-Core,2022,403 USD,125 W
+Core i7-13850HX,для ноутбуков,Intel BGA 1964,24.62,20 / 288 x 5.3 GHz Intel Raptor Cove P-Core12 x 3.8 GHz Intel Gracemont E-Core,2023,−,55 W
+Core i7-14700HX,для ноутбуков,BGA1964,24.55,20 / 288 x 5.5 GHz Intel Raptor Cove P-Core12 x 3.9 GHz Intel Gracemont E-Core,2024,−,55 W
+Xeon w5-2455X,серверный,Intel Socket 4677,24.49,12 / 24,2023,1270 USD,200 W
+Core i5-13600KF,десктопный,Intel Socket 1700,24.48,14 / 20,2022,405 USD,125 W
+Xeon Gold 6346,серверный,Intel Socket 4189,24.35,16 / 32,2021,2861 USD,205 W
+Xeon Gold 5320,серверный,Intel Socket 4189,24.28,26 / 52,2021,2078 USD,185 W
+Xeon Gold 6238R,серверный,Socket P,24.25,28 / 56,2020,1970 USD,165 W
+Core i7-13700,десктопный,Intel Socket 1700,24.12,16 / 248 x 5.2 GHz Intel Raptor Cove P-Core8 x 4.1 GHz Intel Gracemont E-Core,2023,347 USD,65 W
+Xeon W-3175X,серверный,Intel Socket 3647,24.03,28 / 56,2018,1000 USD,255 W
+Core i9-12900F,десктопный,Intel Socket 1700,23.91,16 / 24,2022,500 USD,65 W
+Xeon E7-8867 v3,серверный,Intel Socket 1150,23.86,16 / 32,2015,414 USD,165 W
+Xeon w5-3425,серверный,Intel Socket 4677,23.57,12 / 24,2023,−,270 W
+Xeon Gold 5416S,серверный,Intel Socket 4677,23.53,16 / 32,2023,1244 USD,150 W
+Xeon Gold 6330N,серверный,FCLGA4189,23.51,/,2021,2650 USD,−
+Xeon E7-8857 v2,серверный,FCLGA2011,23.47,/,2014,2126 USD,−
+Xeon Gold 6248R,серверный,Socket P,23.39,24 / 48,2020,3485 USD,205 W
+Ryzen 7 7700X,десктопный,AMD Socket AM5,23.25,8 / 16,2022,420 USD,105 W
+EPYC 4364P,серверный,AMD Socket AM5,23.19,8 / 16,2024,−,105 W
+EPYC 4344P,серверный,AMD Socket AM5,22.97,8 / 16,2024,−,65 W
