@@ -3,7 +3,7 @@ from transliterate import translit
 import requests
 
 
-def parsing(url):
+def parsing(url, section_name):
     headers = {
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0",
@@ -33,7 +33,7 @@ def parsing(url):
         find('img').get('src').split('/')
     picture_url = "https://media.dodostatic.net/image/r:1875x1875/" + poor_quality_url[-1].replace('.jpg', '.png')
     picture = requests.get(picture_url, headers=headers)
-    out = open(f"pictures\\{translit(name, reversed=True).replace(' ', '_')}.png", 'wb')
+    out = open(f"pictures\\{section_name}\\{translit(name, reversed=True).replace(' ', '_')}\\regular.png", 'wb')
     out.write(picture.content)
     out.close()
     ###
@@ -58,7 +58,7 @@ def parsing(url):
 
 
 def main():
-    print(parsing("https://dodopizza.by/minsk/product/syrniki-malina"))
+    print(parsing("https://dodopizza.by/minsk/product/sweet-chilli-shrimp", section_name='pizza'))
 
 
 if __name__ == '__main__':
